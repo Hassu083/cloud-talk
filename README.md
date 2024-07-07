@@ -7,7 +7,7 @@
         <tr>
             <td align="center">
                 <a href="https://github.com/Hassu083">
-                    <img src="https://media.licdn.com/dms/image/D4D03AQH1I2huwapKjg/profile-displayphoto-shrink_200_200/0/1712315074830?e=1723075200&v=beta&t=KAir9hfS5QQQGwLWX7fqEyhSWZ7OQvWeVlzTwkIx1gY" width="100px;" alt="Hasnain Ahmed"/>
+                    <img src="https://media.licdn.com/dms/image/D4D03AQEA1Gtjxk5uzw/profile-displayphoto-shrink_400_400/0/1719501744378?e=1726099200&v=beta&t=P4p7egxnkJw0xDJ1v8KCJS8x1Rc4Wza5K-og7V6VjgQ" width="100px;" alt="Hasnain Ahmed"/>
                     <br />
                     <sub><b>Hasnain Ahmed</b></sub>
                 </a> 
